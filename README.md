@@ -1,6 +1,6 @@
 # Voiceseoai – Free Chrome Extension for Voice & AI Search Optimization
 
-![Voiceseoai logo](https://postimg.cc/Q9nhDjS4)
+![Voiceseoai logo](https://i.postimg.cc/XqnJwJ5b/5.jpg)
 
 ---
 
@@ -12,7 +12,7 @@ Whether you're an SEO specialist, content creator, or website owner, Voiceseoai 
 
 No registration. No subscription. Just pure voice SEO analysis.
 
-![Screenshot of Voiceseoai extension](https://postimg.cc/68NwtjLX)
+![Screenshot of Voiceseoai extension](https://i.postimg.cc/wj1B5n17/1.jpg)
 
 ---
 
@@ -26,7 +26,7 @@ No registration. No subscription. Just pure voice SEO analysis.
 - **PDF Export**: Download your AEO audit in one click  
 - **Free Forever**: No login, no paywall, no limits
 
-![Voiceseoai demo](https://postimg.cc/N5RqJ8hP)
+![Voiceseoai demo](https://i.postimg.cc/TY4dPQtG/3.jpg)
 
 ---
 
@@ -37,7 +37,7 @@ No registration. No subscription. Just pure voice SEO analysis.
 4. **View Your Score** and read actionable insights  
 5. **Download Report** if needed
 
-![Voiceseoai demo](https://postimg.cc/9wVtWjM9)
+![Voiceseoai demo](https://i.postimg.cc/rsRhNV2f/2.jpg)
 
 ---
 
@@ -77,4 +77,4 @@ If you find Voiceseoai helpful, consider:
 Ready to improve your voice search performance?  
 [Install Voiceseoai now](https://chromewebstore.google.com/detail/voice-search-optimizer-ra/nhpgpbkighoakfiocoonbbfemffpmmbk) and get your free AEO audit in seconds!
 
-![Voiceseoai logo](https://postimg.cc/2VkMwsw3)
+![Voiceseoai logo](https://i.postimg.cc/dtrFqvZR/4.jpg)
